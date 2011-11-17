@@ -1,6 +1,6 @@
 package Dancer::Plugin::DataFormValidator;
 {
-  $Dancer::Plugin::DataFormValidator::VERSION = '0.001';
+  $Dancer::Plugin::DataFormValidator::VERSION = '0.002';
 }
 # ABSTRACT: Easy access to Data::FormValidator from within Dancer applications
 
@@ -58,7 +58,7 @@ Dancer::Plugin::DataFormValidator - Easy access to Data::FormValidator from with
 
 =head1 VERSION
 
-version 0.001
+version 0.002
 
 =head1 SYNOPSIS
 
